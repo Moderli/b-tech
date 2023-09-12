@@ -1,0 +1,15 @@
+This file contains persolal code of the b-tech program in the Mallareddy Univercity 
+
+this repo belons to the student from the 2023 cyber-security batch
+
+student-ID : 2311CS040172,
+studentname : Chithari Bharath Varma, 
+
+this repo involves the subjects from 1st year to 4th year ,
+
+
+1st year :
+
+Python 
+Html
+stack development Framework
